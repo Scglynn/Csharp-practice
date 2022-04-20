@@ -1,0 +1,15 @@
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.csproj.AssemblyReference.cache
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.AssemblyInfoInputs.cache
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.AssemblyInfo.cs
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.csproj.CoreCompileInputs.cache
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\bin\Debug\net6.0\Hackerrank_practice.exe
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\bin\Debug\net6.0\Hackerrank_practice.deps.json
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\bin\Debug\net6.0\Hackerrank_practice.runtimeconfig.json
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\bin\Debug\net6.0\Hackerrank_practice.dll
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\bin\Debug\net6.0\Hackerrank_practice.pdb
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.dll
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\refint\Hackerrank_practice.dll
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.pdb
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\Hackerrank_practice.genruntimeconfig.cache
+C:\Source\Interview_prep\Hackerrank_practice\Hackerrank_practice\obj\Debug\net6.0\ref\Hackerrank_practice.dll

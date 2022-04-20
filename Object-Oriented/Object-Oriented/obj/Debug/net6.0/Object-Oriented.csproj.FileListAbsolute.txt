@@ -1,0 +1,15 @@
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\bin\Debug\net6.0\Object-Oriented.exe
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\bin\Debug\net6.0\Object-Oriented.deps.json
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\bin\Debug\net6.0\Object-Oriented.runtimeconfig.json
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\bin\Debug\net6.0\Object-Oriented.dll
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\bin\Debug\net6.0\Object-Oriented.pdb
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.csproj.AssemblyReference.cache
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.AssemblyInfoInputs.cache
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.AssemblyInfo.cs
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.csproj.CoreCompileInputs.cache
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.dll
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\refint\Object-Oriented.dll
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.pdb
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\Object-Oriented.genruntimeconfig.cache
+C:\Source\Interview_prep\Object-Oriented\Object-Oriented\obj\Debug\net6.0\ref\Object-Oriented.dll

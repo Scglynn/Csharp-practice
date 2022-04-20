@@ -1,0 +1,15 @@
+C:\Source\Interview_prep\interview_prep\interview_prep\bin\Debug\net6.0\interview_prep.exe
+C:\Source\Interview_prep\interview_prep\interview_prep\bin\Debug\net6.0\interview_prep.deps.json
+C:\Source\Interview_prep\interview_prep\interview_prep\bin\Debug\net6.0\interview_prep.runtimeconfig.json
+C:\Source\Interview_prep\interview_prep\interview_prep\bin\Debug\net6.0\interview_prep.dll
+C:\Source\Interview_prep\interview_prep\interview_prep\bin\Debug\net6.0\interview_prep.pdb
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.csproj.AssemblyReference.cache
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.AssemblyInfoInputs.cache
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.AssemblyInfo.cs
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.csproj.CoreCompileInputs.cache
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.dll
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\refint\interview_prep.dll
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.pdb
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\interview_prep.genruntimeconfig.cache
+C:\Source\Interview_prep\interview_prep\interview_prep\obj\Debug\net6.0\ref\interview_prep.dll

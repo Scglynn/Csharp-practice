@@ -1,0 +1,15 @@
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\bin\Debug\net6.0\Hackerrank3.exe
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\bin\Debug\net6.0\Hackerrank3.deps.json
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\bin\Debug\net6.0\Hackerrank3.runtimeconfig.json
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\bin\Debug\net6.0\Hackerrank3.dll
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\bin\Debug\net6.0\Hackerrank3.pdb
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.csproj.AssemblyReference.cache
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.AssemblyInfoInputs.cache
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.AssemblyInfo.cs
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.csproj.CoreCompileInputs.cache
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.dll
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\refint\Hackerrank3.dll
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.pdb
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\Hackerrank3.genruntimeconfig.cache
+C:\Source\Interview_prep\Hackerrank3\Hackerrank3\obj\Debug\net6.0\ref\Hackerrank3.dll
